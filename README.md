@@ -61,11 +61,11 @@ cd algorithm-visualizer <br>
  - Host live version of the app
 
 ## 👥 Author
-Name: Harsh Mishra
-GitHub: @erharshmishra
-Email: harshmishra8103@gmail.com
-Role: Frontend Developer & Designer
-Location: Gorakhpur, UP
+Name: Harsh Mishra <br>
+GitHub: @erharshmishra <br>
+Email: harshmishra8103@gmail.com <br>
+Role: Frontend Developer & Designer <br>
+Location: Gorakhpur, UP <br>
 
 ## 🤝 Contributing
 **Contributions are welcome! Here’s how you can help:**
